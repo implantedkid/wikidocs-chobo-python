@@ -1,0 +1,7 @@
+>>> speed = 800
+>>> time = 110
+
+>>> capacity = speed * time
+>>> capacity //= 1000
+
+print(capacity)
